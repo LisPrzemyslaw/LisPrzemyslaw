@@ -37,7 +37,7 @@ I'm a passionate software developer focused on crafting efficient and scalable s
 
 🔗 **Connect with me:**
 
-* [GitHub](github.com/LisPrzemyslaw)
+* [GitHub](https://www.github.com/LisPrzemyslaw)
 * [Email](mailto:przemyslaw_lis@outlook.com) 📧
 
 
