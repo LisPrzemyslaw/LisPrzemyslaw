@@ -35,6 +35,11 @@ I'm a passionate software developer focused on crafting efficient and scalable s
 
 ---
 
+⚡ **Fun fact & hobbies:**
+* 🔥 Campfire guitarist
+
+---
+
 🔗 **Connect with me:**
 
 * [GitHub](https://www.github.com/LisPrzemyslaw)
