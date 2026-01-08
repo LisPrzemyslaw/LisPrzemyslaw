@@ -32,7 +32,7 @@ I'm a passionate software developer focused on crafting efficient and scalable s
 
 📚 **Training & Courses:**
 
-* **Certified PRINCE2® 7 Foundation (10/2025)** - Altkom Akademia
+* **Certified PRINCE2® 7 Foundation (10/2025)** - Peoplecert
 * **[Certified Product Manager](https://www.udacity.com/certificate/e/547b444a-e5fd-11ee-94fe-5f21cd57c67e) (06/2024)** - Udacity
 * **Architecture of Modern IT Systems (09/2024)** - Altkom Akademia
 * **Advanced Programming Techniques in Python (10/2022)** - Altkom Akademia
