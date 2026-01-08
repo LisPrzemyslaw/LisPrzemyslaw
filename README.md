@@ -3,7 +3,7 @@
 I'm a passionate software developer focused on crafting efficient and scalable solutions, particularly in computer vision and robust framework development. I thrive in collaborative settings and enjoy leading projects
 
 
-🚀 **Currently:** Software Developer at BSH Home Appliances Group
+🚀 **Currently:** Senior Software Developer at BSH Home Appliances Group
 
 🌱 I'm currently expanding my backend framework knowledge with a focus on FastAPI.
 
